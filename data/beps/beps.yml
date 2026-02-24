@@ -399,17 +399,21 @@
     google_doc: https://docs.google.com/document/d/1drYd7kaNbHTcYPR3T_CRDsPcEbFSV7JbJUmhMPeWMqY/
     content:
     -   raw
-    leads:
+    Active leads:
     -   given-names: Giacomo
         family-names: Bertazzoli
     -   given-names: Vittorio
         family-names: Iacovella
-    -   given-names: Carlo
-        family-names: Miniussi
+    -   given-names: Peter J.
+        family-names: Fried
     -   given-names: Marta
         family-names: Bortoletto
     -   given-names: Nigel
         family-names: Rogasch
+    Inactive leads:
+    -   given-names: Carlo
+        family-names: Miniussi
+        role: Co-Funder
     bids_maintainers:
     -   given-names: Rémi
         family-names: Gau
@@ -425,6 +429,7 @@
         Use of events and scans files for online stimulation.
     -   V4.1 2024-12 BEP 4.1 Comments form December 9th, 2024 5th general meeting implemented, added FAQ section. Met with the BIDS maintenance team in
         January 2025. Agreed on closing the open discussions, lock the google doc and start the PR.
+    -   V6.2 2024-12 BEP being actively maintained at https://github.com/nigelrogasch/nibs-bids/tree/master/nibs-bids-v6
     blocking:
     google_doc_created: 2022-09
     pull_request_created:
