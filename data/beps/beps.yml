@@ -397,6 +397,8 @@
 -   number: '037'
     title: Non-Invasive Brain Stimulation
     google_doc: https://docs.google.com/document/d/1drYd7kaNbHTcYPR3T_CRDsPcEbFSV7JbJUmhMPeWMqY/
+    development_repository: https://github.com/nigelrogasch/nibs-bids/tree/master/nibs-bids-v6/
+    preprint_version: https://docs.google.com/document/d/1xfetyFkXh8kqObfCViUvku69pk4ZZw8BC5GL8_Cq9TI/edit?tab=t.0/
     content:
     -   raw
     leads:
@@ -404,12 +406,15 @@
         family-names: Bertazzoli
     -   given-names: Vittorio
         family-names: Iacovella
-    -   given-names: Carlo
-        family-names: Miniussi
+    -   given-names: Peter J.
+        family-names: Fried
     -   given-names: Marta
         family-names: Bortoletto
     -   given-names: Nigel
         family-names: Rogasch
+    past-leads:
+    -   given-names: Carlo
+        family-names: Miniussi
     bids_maintainers:
     -   given-names: Rémi
         family-names: Gau
