@@ -397,6 +397,7 @@
 -   number: '037'
     title: Non-Invasive Brain Stimulation
     google_doc: https://docs.google.com/document/d/1drYd7kaNbHTcYPR3T_CRDsPcEbFSV7JbJUmhMPeWMqY/
+    authors_list: https://docs.google.com/spreadsheets/d/1oMImk-HXsyLZtTj3yIa1uY9LX3hVpsCiAGZP3oSV0Eo/edit?gid=0#gid=0/
     content:
     -   raw
     leads:
@@ -425,6 +426,8 @@
         Use of events and scans files for online stimulation.
     -   V4.1 2024-12 BEP 4.1 Comments form December 9th, 2024 5th general meeting implemented, added FAQ section. Met with the BIDS maintenance team in
         January 2025. Agreed on closing the open discussions, lock the google doc and start the PR.
+    -   V6.2 2024-12 BEP 6.2 Comments form December 12th, 2025 6th general meeting implemented. Met with the BIDS steering team in
+        March 2026. Agreed on making a preprint version of the BEP (citable). Preparation and submission of NSF FAIROS grant (April 8th) on NIBS-BIDS implementation. 
     blocking:
     google_doc_created: 2022-09
     pull_request_created:
